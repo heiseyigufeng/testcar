@@ -1,5 +1,5 @@
 Creating a new branch is quick.
-I am a small apple!
+you are a very small apple!
 Creating a new branch is quick AND simple.
 add merge；
 hahaha!
