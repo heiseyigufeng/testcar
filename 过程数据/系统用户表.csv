@@ -1,0 +1,18 @@
+Name	Code	Data Type	Length	Comment	Precision	P	F	M
+id	id	int		id		X		X
+工号	user_id	varchar(100)	100	工号				X
+姓名	user_name	varchar(100)	100	姓名				
+公司	company	varchar(100)	100	所属公司				
+部门	depart	varchar(100)	100	部门				
+创建时间	create_time	datetime		创建时间				
+创建人工号	create_user	varchar(100)	100	创建人工号				
+座机号	telephone	varchar(100)	100	座机号				
+手机号	phone	varchar(100)	100	手机号				
+邮件地址	email	varchar(100)	100	邮件地址				
+密码	password	varchar(100)	100	密码				
+系统所属角色	role	varchar(100)	100	系统所属角色				
+cmp密码	cmp_password	varchar(100)	100	cmp密码				
+是否离职	is_colse	varchar(100)	100	0表示没有，其他表示已离职				
+更新人工号	updateuser	varchar(100)	100	更新人工号				
+更新时间	updatetime	datetime		更新时间				
+更新识别码	updatecode	int		更新识别码				
