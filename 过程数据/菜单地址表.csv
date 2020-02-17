@@ -1,0 +1,12 @@
+Name	Code	Data Type	Length	Comment	Precision	P	F	M
+id	id	int		id		X		X
+菜单名称	mune_name	varchar(100)	100	菜单名称				X
+父菜单名称	p_menu	varchar(100)	100	父菜单名称				X
+菜单地址	addr	varchar(100)	100	菜单地址				
+创建人	create_user	varchar(100)	100	创建人				
+创建时间	create_time	datetime		创建时间				
+是否停用	is_closed	varchar(100)	100	是否停用				
+是否公共菜单	is_public	varchar(100)	100	"1,表示是，其他否"				
+更新人	update_user	varchar(100)	100	更新人				
+更新时间	update_time	datetime		更新时间				
+更新识别码	update_code	int		更新识别码				
